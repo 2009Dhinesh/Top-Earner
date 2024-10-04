@@ -2,7 +2,8 @@ Fetch JSON Data Using JavaScript
 
   Overview
   
-    This project demonstrates how to fetch and display JSON data using JavaScript. It utilizes the Fetch API to retrieve data from a public API and then renders it dynamically on the web page.
+    This project demonstrates how to fetch and display JSON data using JavaScript. 
+    It utilizes the Fetch API to retrieve data from a public API and then renders it dynamically on the web page.
 
   Features
   
