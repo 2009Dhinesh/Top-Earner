@@ -1,4 +1,4 @@
-Fetch JSON Data Using JavaScript
+Top Earners List in JavaScript
 
   Overview
   
